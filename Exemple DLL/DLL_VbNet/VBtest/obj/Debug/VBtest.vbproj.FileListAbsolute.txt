@@ -1,0 +1,14 @@
+C:\Users\2500072\Desktop\VBtest\VBtest\bin\Debug\VBtest.exe.config
+C:\Users\2500072\Desktop\VBtest\VBtest\bin\Debug\VBtest.exe
+C:\Users\2500072\Desktop\VBtest\VBtest\bin\Debug\VBtest.pdb
+C:\Users\2500072\Desktop\VBtest\VBtest\bin\Debug\VBtest.xml
+C:\Users\2500072\Desktop\VBtest\VBtest\bin\Debug\Dll_cSharpe.dll
+C:\Users\2500072\Desktop\VBtest\VBtest\obj\Debug\VBtest.vbprojAssemblyReference.cache
+C:\Users\2500072\Desktop\VBtest\VBtest\obj\Debug\VBtest.Form1.resources
+C:\Users\2500072\Desktop\VBtest\VBtest\obj\Debug\VBtest.Resources.resources
+C:\Users\2500072\Desktop\VBtest\VBtest\obj\Debug\VBtest.vbproj.GenerateResource.cache
+C:\Users\2500072\Desktop\VBtest\VBtest\obj\Debug\VBtest.vbproj.CoreCompileInputs.cache
+C:\Users\2500072\Desktop\VBtest\VBtest\obj\Debug\VBtest.vbproj.CopyComplete
+C:\Users\2500072\Desktop\VBtest\VBtest\obj\Debug\VBtest.exe
+C:\Users\2500072\Desktop\VBtest\VBtest\obj\Debug\VBtest.xml
+C:\Users\2500072\Desktop\VBtest\VBtest\obj\Debug\VBtest.pdb

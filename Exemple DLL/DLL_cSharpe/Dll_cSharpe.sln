@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dll_cSharpe", "Dll_cSharpe\Dll_cSharpe.csproj", "{B96A29E3-8C3D-4F45-B588-08BBA0E2D652}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B96A29E3-8C3D-4F45-B588-08BBA0E2D652}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B96A29E3-8C3D-4F45-B588-08BBA0E2D652}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B96A29E3-8C3D-4F45-B588-08BBA0E2D652}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B96A29E3-8C3D-4F45-B588-08BBA0E2D652}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F1A11E09-C355-46BB-9A3C-51E5DA76652B}
+	EndGlobalSection
+EndGlobal

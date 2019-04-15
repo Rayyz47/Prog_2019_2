@@ -1,0 +1,6 @@
+C:\Users\2500072\Desktop\Dll_cSharpe\Dll_cSharpe\bin\Debug\Dll_cSharpe.dll
+C:\Users\2500072\Desktop\Dll_cSharpe\Dll_cSharpe\bin\Debug\Dll_cSharpe.pdb
+C:\Users\2500072\Desktop\Dll_cSharpe\Dll_cSharpe\obj\Debug\Dll_cSharpe.csprojAssemblyReference.cache
+C:\Users\2500072\Desktop\Dll_cSharpe\Dll_cSharpe\obj\Debug\Dll_cSharpe.csproj.CoreCompileInputs.cache
+C:\Users\2500072\Desktop\Dll_cSharpe\Dll_cSharpe\obj\Debug\Dll_cSharpe.dll
+C:\Users\2500072\Desktop\Dll_cSharpe\Dll_cSharpe\obj\Debug\Dll_cSharpe.pdb

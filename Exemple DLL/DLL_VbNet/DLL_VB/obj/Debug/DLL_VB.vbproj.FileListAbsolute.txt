@@ -1,0 +1,10 @@
+C:\Users\2500072\Desktop\VBtest\DLL_VB\bin\Debug\DLL_VB.dll
+C:\Users\2500072\Desktop\VBtest\DLL_VB\bin\Debug\DLL_VB.pdb
+C:\Users\2500072\Desktop\VBtest\DLL_VB\bin\Debug\DLL_VB.xml
+C:\Users\2500072\Desktop\VBtest\DLL_VB\obj\Debug\DLL_VB.vbprojAssemblyReference.cache
+C:\Users\2500072\Desktop\VBtest\DLL_VB\obj\Debug\DLL_VB.Resources.resources
+C:\Users\2500072\Desktop\VBtest\DLL_VB\obj\Debug\DLL_VB.vbproj.GenerateResource.cache
+C:\Users\2500072\Desktop\VBtest\DLL_VB\obj\Debug\DLL_VB.vbproj.CoreCompileInputs.cache
+C:\Users\2500072\Desktop\VBtest\DLL_VB\obj\Debug\DLL_VB.dll
+C:\Users\2500072\Desktop\VBtest\DLL_VB\obj\Debug\DLL_VB.xml
+C:\Users\2500072\Desktop\VBtest\DLL_VB\obj\Debug\DLL_VB.pdb
